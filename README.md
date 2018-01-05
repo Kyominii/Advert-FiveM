@@ -9,9 +9,6 @@ Advert-FiveM is a simple advert script for FiveM servers.
 * You can add in [templates.lua](https://github.com/Kyominii/Advert-FiveM/blob/master/advert/templates.lua) some texts in order to broadcast them later
 * To broadcast a template, you can use the command `advert /templateName` (don't forget to add a / before the name of the template). For instance, `advert /maintenance` will broadcast to all player the texts link to maintenance template
 
-## Changelog
-You can find the changelog [here](https://github.com/Kyominii/Cops_FiveM/blob/master/CHANGELOG.md).
-
 ## Installation
 1. Download the latest version from the [GitHub repository](https://github.com/Kyominii/Advert-FiveM/releases/latest).    
 2. Put the `advert` folder in the resources folder on your server.        
