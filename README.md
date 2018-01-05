@@ -1,7 +1,7 @@
 # Advert-FiveM
 [![Version](https://img.shields.io/badge/Version-v1.0.0-brightgreen.svg)](https://github.com/Kyominii/Advert-FiveM/releases/tag/v1.0.0)
 
-Advert-FiveM is a simple advert script for FiveM servers.
+Advert-FiveM is a simple advert script for FiveM servers (it isn't an automatic broadcaster !).
 
 ## How to use it
 * Use the RCON command `advert` in order to see how to use the script
